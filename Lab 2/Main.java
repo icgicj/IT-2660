@@ -5,15 +5,10 @@ import java.util.Iterator;
 
 // Lab 2 - Lists, Stacks, and Queues
 // Your Name: Christian Allen
-// Notes: The instructions are found in comments through the code starting with "Step n"
-//        Please leave the comments and add your code just after the comment.
-//        Use the examples in the book to complete the lab.
- 
+
 class Main {
   public static void main(String[] args) {
     Lab2 lab = new Lab2();
-    // Comment/Uncomment the following 3 method calls as you work on each method.
-    // No code should be added to the main method. All of your code will go into the methods in Lab2.
     lab.linkedList();
     lab.queue();
     lab.stack();
