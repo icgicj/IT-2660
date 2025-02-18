@@ -8,7 +8,7 @@ import java.util.Iterator;
 // Notes: The instructions are found in comments through the code starting with "Step n"
 //        Please leave the comments and add your code just after the comment.
 //        Use the examples in the book to complete the lab.
-
+ 
 class Main {
   public static void main(String[] args) {
     Lab2 lab = new Lab2();
